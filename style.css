@@ -32,6 +32,10 @@ body {
     background-color: #fcfcfc;
 }
 
+::-webkit-scrollbar:horizontal {
+    display: none;
+}
+
 header {
     padding-top: 18px;
     padding-left: 36px;
